@@ -57,7 +57,7 @@ Dưới đây là các bước xử lý dữ liệu bằng Python:
 ### Các bảng Dimensions
 1. **`Dim_Time`**: Chứa thông tin thời gian (ngày, tháng, quý, năm).  
 2. **`Dim_Department`**: Chứa danh sách các phòng ban.  
-3. **`Dim_PlanType`**: Phân loại dữ liệu (thực tế hoặc kế hoạch).  
+3. **`Dim_PlanType`**: Phân loại kế hoạch theo tháng, quý, năm.  
 4. **`Dim_NSP`**:  
    - Chứa thông tin nhóm sản phẩm.  
    - Tạo cột mới `NSP_Code` bằng cách nối `NSP1_Code` và `NSP2_Code` (ví dụ: `A001 – B001`).
