@@ -78,5 +78,5 @@ Mô hình OLAP
 - Link Dashboard: Đang cập nhật
 - ## !!! **Vì em vẫn chưa hiểu về phần Deliver_Plan, nên có thể tooltip sẽ hiển thị sai kết quả.**
 
-# **EM XIN CHÂN THÀNH CẢM ƠN ANH/CHỊ VÀ CÔNG TY RẠNG ĐÔNG**
+# **EM XIN CHÂN THÀNH CẢM ƠN ANH/CHỊ VÀ CÔNG TY RẠNG ĐÔNG!! **
 **ĐỖ THẾ ANH**
