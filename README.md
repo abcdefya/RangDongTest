@@ -74,7 +74,9 @@ Mô hình OLAP
 ## IV. Tạo Dashboard
 - **Công cụ**: Power BI.   
   ![image](https://github.com/user-attachments/assets/7e459cb4-3c0f-4d47-a43c-376608ffdb0c)
-![image](https://github.com/user-attachments/assets/88a14d14-660d-450a-b112-785fa79cb36c)
 
 - Link Dashboard: Đang cập nhật
+- ## !!! **Vì em vẫn chưa hiểu về phần Deliver_Plan, nên có thể tooltip sẽ hiển thị sai kết quả.**
 
+# **EM XIN CHÂN THÀNH CẢM ƠN ANH/CHỊ VÀ CÔNG TY RẠNG ĐÔNG**
+**ĐỖ THẾ ANH**
