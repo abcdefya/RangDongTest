@@ -76,7 +76,8 @@ Mô hình OLAP
   ![image](https://github.com/user-attachments/assets/7e459cb4-3c0f-4d47-a43c-376608ffdb0c)
 
 - Link Dashboard: Đang cập nhật
-- ## !!! **Vì em vẫn chưa hiểu về phần Deliver_Plan, nên có thể tooltip sẽ hiển thị sai kết quả.**
+- ## !!! **Vì em vẫn chưa hiểu về phần tổ chức dữ liệu của Deliver_Plan giữa các phòng ban và dòng sản phẩm nên có thể tooltip hiển thị sai kết quả. Mặc dù em đã cố tìm hiểu nhưng vẫn chưa giải quyết được, mong anh chị thông cảm ạ.**
+- ## !!! **Một số hàng có các giá trị NULL nhưng giá trị deliver lại không NULL do đó em quyết định giữ lại vì để tổng hợp doanh thu cho chính xác.**
 
 # **EM XIN CHÂN THÀNH CẢM ƠN ANH/CHỊ VÀ CÔNG TY RẠNG ĐÔNG!! **
 **ĐỖ THẾ ANH**
